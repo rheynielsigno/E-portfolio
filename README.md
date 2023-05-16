@@ -18,4 +18,5 @@ Contact Info: This section provides contact information to reach where i can put
 
 I also include a footer in the E-Portfolio this is where you can find my social media accounts that will allow you to connect with me on platforms like Facebook, Instagram, and Twitter.
 
-To view the portfolio, simply visit the GitHub Pages website at  https://rheynielsigno.github.io/E-portfolio/. You can navigate through the different sections by clicking on the tabs on the top menu, To view my specific skills and to know about my self and my degree if i am suitable to hire, click on the links within each section.
+To view the portfolio, simply visit the GitHub Pages website at  https://rheynielsigno.github.io/E-portfolio/. You can navigate through the different sections by clicking on the tabs on the top menu to view each section.
+
